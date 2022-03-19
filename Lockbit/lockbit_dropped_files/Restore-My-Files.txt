@@ -1,0 +1,11 @@
+LockBit 2.0 Ransomware
+
+Your data are stolen and encrypted
+The data will be published on TOR website http://<redacted>.onion and https://<redacted>.at if you do not pay the ransom
+You can contact us and decrypt one file for free on these TOR sites
+http://<redacted>.onion
+http://<redacted>.onion
+OR
+https://<redacted>.at
+
+Decryption ID: <redacted>
